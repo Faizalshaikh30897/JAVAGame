@@ -24,7 +24,7 @@ public class Game extends Canvas implements Runnable{
 	public static GameState gameState = GameState.Game;
 	//private Random r;
 	
-	
+	//constructor of Main Game class
 	public Game() {
 		this.requestFocus();
 		handler = new Handler();
