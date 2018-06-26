@@ -1,0 +1,13 @@
+Player 1 controls;
+W - move forward;
+S - move Backward;
+A - rotate anticlockwise;
+D - rotate clockwise;
+Space - shoot;
+Esc - pause;
+Player 2 controls(Arrow keys);
+Up - move forward;
+Down - move Backward;
+Left - rotate anticlockwise;
+Right - rotate clockwise;
+Numpad0 - shoot;
