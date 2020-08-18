@@ -8,4 +8,4 @@ javac -d ../bin zwars\Game.java zwars\GameObject.java zwars\GameState.java zwars
 
 
 run:
-java 0cp ../bin zwars.Game
+java -cp ../bin zwars.Game
